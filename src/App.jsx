@@ -6,7 +6,7 @@ export default function App() {
     <div className="app">
       <header className="hero">
         <h1 className="logo">🌊 Sell Wave</h1>
-        <p className="tagline">Luxury Products. AI Powered Experience.</p>
+        <p className="tagline">Online Shopping.</p>
         <button className="explore-btn">Explore Now</button>
       </header>
 
